@@ -62,4 +62,4 @@ This project is an e-commerce database schema built to manage products, brands, 
 You can generate the ERD using the provided schema file on dbdiagram.io. It visually represents relationships among entities.
 
 ##Contributors
-Ajaluwa Tamara
+Ajaluwa Tamara https [Tam1988](://github.com/Tam1988)
